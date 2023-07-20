@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516420823094",
+    "project_id": "mchh-welfare",
+    "storage_bucket": "mchh-welfare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516420823094:android:93e5e8742eccb4722d9097",
+        "android_client_info": {
+          "package_name": "com.example.mchh_welfare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516420823094-1jn4srpium1oa59854mi7ssecd4o6ua9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxI6k9D4YdAUeQeuUvyC4P9kCdZzfub2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516420823094-1jn4srpium1oa59854mi7ssecd4o6ua9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
